@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# FAQ about the Catalan Republic
+
+## Why does Catalonia want to secede from Spain?
+## Is there a majority for independence?
+## Is catalan a full language?
+## Is spanish not taught in catalan schools?
+## I heard catalans are xenophobes, supremacist and even nazis. Is there any true to those claims?
+## How was the referendum organized?
+## How many people needed medical attention after the referendum?
+## I heard there were only 2 pepole injured
+## I heard the images were fake news
 
 You can use the [editor on GitHub](https://github.com/voluntarixrepublica/faqsrepublica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

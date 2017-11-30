@@ -89,7 +89,7 @@ Although there are some charges against him, there is no sentence, therefore he 
 There was, a lot. Although some people claim "fake news", there are abundant evidence of the facts. There are more than 150 videos in [https://spanishpolice.github.io/](https://spanishpolice.github.io/), all of them verified.
 
 There were also a few false videos and pictures of unknown sources. But even though they existed, they were quickly discredited and ignored, and those are not among the videos in  [https://spanishpolice.github.io/](https://spanishpolice.github.io/)
-![A man lost an eye for the impact of a rubber bullet](/assets/images/bleeding-eye.jpg "A man lost an eye for the impact of a rubber bullet"){:.some-css-class width="450"}
+![A man lost an eye for the impact of a rubber bullet](/assets/images/bleeding-eye.jvpg "A man lost an eye for the impact of a rubber bullet"){:.some-css-class width="450"}
 ![A policeman fly-kicks protestors on the floor](/assets/images/patada-voladora.gif "A policeman fly-kicks protestors on the floor"){:.some-css-class width="450"}
 ![A policeman hits a protestor](/assets/images/copdepuny.gif "A policeman hits a protestor"){:.some-css-class width="450"}
 
@@ -117,6 +117,14 @@ Some other times in Spain there were low turnouts. The referendum for the Europe
 ### Was the referendum breaking the law?
 
 The Kingdom of Spain signed the Charter of the United Nations, where in its Article 1 Section 2 it states: "The Purposes of the United Nations are to develop friendly relations among nations based on the principles of **equal rights and self-determination of peoples**, and to take other appropriate measures to strenghten universal peace". The referendum was no more and no bbless than excercising that right.
+
+
+### Wasn't the referendum illegal? Was there a court order to prevent it?
+
+At that moment, October 1st, the referendum was suspended by the Constitutional Court, it was not declared illegal yet (although it was a few weeks afterwards). Even so, to prevent it the Spanish police violated fundamental right like reunion, freedom of speech, personal security, postal secret...
+
+And there was a court order for the police to stop the referendum, but it clearly stated it should be stopped "without affecting the normal life of the citizens", which according to the extensive evidence they didn't.
+
 
 ## Legality
 

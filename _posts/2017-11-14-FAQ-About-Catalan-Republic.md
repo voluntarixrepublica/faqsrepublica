@@ -24,7 +24,7 @@ There was also corruption in the Catalan Government. It was under Pujol's rule, 
 
 Catalan people can't understand why corruption is not punished in the ballot boxes.
 
-### I heard the Kingdom of Spain is one of the most decentralized countries in the world... Why are catalans complaining about?
+### I heard the Kingdom of Spain is one of the most decentralized countries in the world... What are catalans complaining about?
 
 The theory may say so, but the Spanish government has been actively challenging all social laws approved in the Catalan government. A few examples are:
 
@@ -123,3 +123,9 @@ For this events, even when there is evidence of them doing the opposite as the c
 They were imprisoned without a trial as precautionary measures because the judge considered they could keep commiting the same crime (call and attend to rallies) and they could destroy evidence. But nobody went to gather any more evidence, so the second part shouldn't apply. And the first part means they shouldn't be allowed to rally anymore.
 
 
+## About Catalans
+
+### I heard catalans are unsopportive of the other people. Is that true?
+
+Catalonia has always been a welcoming place where people from all places have found their home. An integrating society where no matter where you're from, you'll be treated as equal. To illustrate this, let see how [thousands of catalans rallied demanding to take more refugees in](https://www.theguardian.com/world/2017/feb/18/protesters-in-barcelona-urge-spain-to-take-in-more-refugees)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qnasaVSsLdA?rel=0" frameborder="0" allowfullscreen></iframe>

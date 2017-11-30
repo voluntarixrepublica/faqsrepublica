@@ -20,9 +20,13 @@ The pro-independence movement has been around since 1931, but it gained momentum
 
 - [Political corruption is endemic in Spain](https://en.wikipedia.org/wiki/Corruption_in_Spain), with [very outraging cases](https://www.thelocal.es/20160128/nine-spanish-corruption-scandals-that-will-take-your-breath-away). The worst part is the political parties behind the crimes keep getting votes from the citizens, so they continue in power, and they continue embezzling. An example of [corruption in Madrid](http://www.casos-aislados.com/Caso-por-comunidad.php?Comunidad=Comunidad%20de%20Madrid) is Ignacio González, former President of Madrid, who is charged not only of embezzelment, but also for covering up for Ruiz Gallardón (the previous president) embezzelments. The Popular Party has been using [illegal funding for the last 25 years])http://www.eldiario.es/escolar/contabilidad-PP-Barcenas_6_384321604.html), [almost all of their accountants were charged with crimes](http://www.servimedia.es/Noticias/Detalle.aspx?n=521261&s=1), [the party destroyed evidence](http://www.eldiario.es/politica/procesa-Partido-Popular-ordenadores-Barcenas_0_541396291.html), [their headquarters were paid with dirty money](https://elpais.com/elpais/2014/06/05/media/1401994595_739254.html), [Francisco Granados](http://www.publico.es/politica/francisco-granados-e-ignacio-gonzalez-numeros-tres-esperanza-aguirre-comparecen-distintas-tramas-corrupcion-audiencia-nacional.html) was in TV debates condemning corruption while he was embezzling at that very moment... And the list goes on.
 
+A notebook was found stating payments with dirty money to politicians in the Popular Party. There were a few annotations for "M. Rajoy", a name very similar to the Prime Minister "Mariano Rajoy", although it has not been confirmed yet. When the accountant in charge of that book keeping was arrested, Mariano Rajoy sent him a message saying "Luis, stay strong. We're doing what we can". The Popular Party destroyed evidence (the most important: the accountant's hard drives) and are now in courts for that, as well.
+
 There was also corruption in the Catalan Government. It was under Pujol's rule, until 2003. After it was discovered, [Pujol was disowned of all his titles](http://www.antena3.com/noticias/espana/retirada-titulos-distinciones-jordi-pujol_20140731571f69196584a8abb58412ac.html), he is court, and his party suffered a harsh scold in the following elections, they had to [split](http://www.elmundo.es/cataluna/2015/06/18/55829b7a22601d1a5c8b457f.html) and start with [different names and different people](https://en.wikipedia.org/wiki/Catalan_European_Democratic_Party).
 
 Catalan people can't understand why corruption is not punished in the ballot boxes.
+[Here we can see some statistics about how corruption spreads across spain](http://www.casos-aislados.com/en/stats.phphttp://www.casos-aislados.com/en/stats.php)
+
 
 ### I heard the Kingdom of Spain is one of the most decentralized countries in the world... What are catalans complaining about?
 
@@ -123,6 +127,16 @@ The Human Rights should be hierarchically above the Spanish Constitution, as it 
 
 In Spain there is no debate: the Constitution is above everything else, even above the Declaration of Human Rights. But in the international scene there are different opinions. For instance, [Alfred de Zayas](https://dezayasalfred.wordpress.com/2017/09/23/media-statement-violation-of-the-right-of-self-determination-of-the-catalan-people/), a ["UN Independent Expert on the Promotion of a Democratic and Equitable International Order"](http://www.ohchr.org/EN/Issues/IntOrder/Pages/IEInternationalorderIndex.aspx) says "cease interfering with the exercise of fundamental democratic rights, including the rights of freedom of expression, freedom of assembly and association, and the non-derogable right of the self-determination of all peoples.", or [Craig Murray](https://www.craigmurray.org.uk/archives/2017/10/obliged-reconsider-support-european-union/), former british ambassador, says "The rights conferred by the UN Charter are inalienable. A people can never give up its right of self-determination.".
 
+### Is there not "rule of law" in Spain? Is there not separation of powers?
+
+The higher level judges of the Spanish courts are chosen by the government. They should choose someone impartial, but for some trials that's not the case, and we know their verdicts even before they're sentenced. 
+
+When a trial is not going how the Popular Party wants, they change the judge. They've done that several times.
+
+Also some recordings came to light recently, where the Minister of Interior cin his office an be heard conspiring against political opponents, giving orders to find dirt about them, leak information to the press (it didn't matter if the information was false), considering blackmail, and saying things like "don't worry about that dossier, **the public prosecutor will tune it up for you**". When this recordings came to light, they made sure there was no investigation, not only about the contents of the conversation, but also not about why the Minister was recorded in his own office, and then the data was leaked.
+
+According to those facts and some more, separation of powers in Spain is highly disputable.
+
 ### Are there political prisoners in Spain?
 
 This is a highly controversial issue. But before getting into details, we must keep in mind no government has ever acknowledged imprisoning people for their ideals, or having "political prisoners". All governments always say the imprisoned people deserve deserve to be because they broke one law or another, so we wouldn't expect a different answer from the Spanish government. Gandhi was "bringing or attempting to excite disaffection towards His Majesty's Government established by law in British India", Mandela was accused of "sabotage and conspiracy to violently overthrow the government", and so on.
@@ -178,5 +192,9 @@ Yes, it is. From the last 12 Catalan presidents, only 2 of them (Montilla i Mara
 - Josep Montilla suffered no retaliation
 - Artur Mas has been barred
 - Carles Puigdemont is in Brussels awaiting for trial.
-![Catalan presidents prosecuted for their ideas](/assets/images/dreta-esquerra.png "Catalan presidents prosecuted for their ideas"){:.some-css-class width="450"}
+![Catalan presidents prosecuted for their ideas](/assets/images/presidents.png "Catalan presidents prosecuted for their ideas"){:.some-css-class width="450"}
 
+### Is it true that catalans hate spaniards?
+
+No, it's not. This movement is not about hate against the Kingdom of Spain or against what's Spanish. People with Spanish flags have been rallying with people with "Estelades" (pro-independence flags), and nothing happened. As it should be.
+![Friendship among different flags](/assets/images/spanish-flag.png "Friendship among different flags"){:.some-css-class width="450"}

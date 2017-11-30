@@ -109,6 +109,10 @@ Some other times in Spain there were low turnouts. The referendum for the Europe
 
 ![63% abstention in andalusian Statute referendum vote](/assets/images/andalusian-referendum.png "63% abstention in andalusian Statute referendum vote"){:.some-css-class width="450"}
 
+### Was the referendum breaking the law?
+
+The Kingdom of Spain signed the Charter of the United Nations, where in its Article 1 Section 2 it states: "The Purposes of the United Nations are to develop friendly relations among nations based on the principles of **equal rights and self-determination of peoples**, and to take other appropriate measures to strenghten universal peace". The referendum was no more and no bbless than excercising that right.
+
 ## Legality
 
 ### Is self-determination actually a right in Catalonia?
@@ -148,3 +152,31 @@ They were imprisoned without a trial as precautionary measures because the judge
 
 Catalonia has always been a welcoming place where people from all places have found their home. An integrating society where no matter where you're from, you'll be treated as equal. To illustrate this, let see how [thousands of catalans rallied demanding to take more refugees in](https://www.theguardian.com/world/2017/feb/18/protesters-in-barcelona-urge-spain-to-take-in-more-refugees)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qnasaVSsLdA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### Is there any pattern left-right wing on pro-anti independence?
+
+According to this 2015 poll, it looks like against independence people consider themselves more right-wing than pro-independence.
+
+![How pro-anti independence define themselves](/assets/images/dreta-esquerra.png "How pro-anti independence define themselves"){:.some-css-class width="450"}
+
+### Was the catalan Government ("La Generalitat") created/restored thanks to the Spanish Constitution?
+
+No, it was created before. "La Generalitat" (the catalan Government) was originally created in 1283, way before the Spanish Constitution, even Spain itself. It was abolished in 1714, restored in 1931, abolished in 1939 and restored again in 1977. The Spanish Constitution was created and ratified in 1978, so even its last restoration was before the Spanish Constitution. So no, La Generalitat was not created or restored thanks to the Spanish Constitution.
+
+### Is it frequent that Catalan Presidents have problems with the Spanish Government?
+
+Yes, it is. From the last 12 Catalan presidents, only 2 of them (Montilla i Maragall) haven't suffered harassment for their ideas. The rest have been imprisoned, exiled or killed (or both) or suspended for their ideas .
+- Prat de la Riba went to prison
+- Puig i Cadafalch was exiled
+- Francesc Macia was exiled and imprisoned
+- Joan Casanovas was imprisoned and exiled
+- Lluis Companys was imprisoned, exiled and killed. 
+- Josep Irla was exiled
+- Josep Tarradellas was exiled
+- Jordi Pujol was imprisoned before being elected President
+- Pasqual Maragall suffered no retaliation
+- Josep Montilla suffered no retaliation
+- Artur Mas has been barred
+- Carles Puigdemont is in Brussels awaiting for trial.
+![Catalan presidents prosecuted for their ideas](/assets/images/dreta-esquerra.png "Catalan presidents prosecuted for their ideas"){:.some-css-class width="450"}
+

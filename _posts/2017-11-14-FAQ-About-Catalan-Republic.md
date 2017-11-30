@@ -91,6 +91,7 @@ There was, a lot. Although some people claim "fake news", there are abundant evi
 There were also a few false videos and pictures of unknown sources. But even though they existed, they were quickly discredited and ignored, and those are not among the videos in  [https://spanishpolice.github.io/](https://spanishpolice.github.io/)
 ![A man lost an eye for the impact of a rubber bullet](/assets/images/bleeding-eye.png "A man lost an eye for the impact of a rubber bullet"){:.some-css-class width="450"}
 ![A policeman fly-kicks protestors on the floor](/assets/images/patada-voladora.gif "A policeman fly-kicks protestors on the floor"){:.some-css-class width="450"}
+![A policeman hits a protestor](/assets/images/copdepuny.gif "A policeman hits a protestor"){:.some-css-class width="450"}
 
 ### I heard there were fake videos and pictures of police brutality
 
